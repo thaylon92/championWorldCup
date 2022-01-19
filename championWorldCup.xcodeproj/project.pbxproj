@@ -65,6 +65,7 @@
 		26E4D8C8278F4F0E00688543 /* WorldCup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26E4D8C7278F4F0E00688543 /* WorldCup.swift */; };
 		26E4D8CC278F516F00688543 /* winners.json in Resources */ = {isa = PBXBuildFile; fileRef = 26E4D8CB278F516F00688543 /* winners.json */; };
 		26E4D8CF2791F72700688543 /* África do Sul.png in Resources */ = {isa = PBXBuildFile; fileRef = 26E4D86A278F4D1000688543 /* África do Sul.png */; };
+		26F0FCE52798CBAF006344F7 /* WorrldCupTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F0FCE42798CBAF006344F7 /* WorrldCupTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -128,6 +129,7 @@
 		26E4D8C0278F4DF800688543 /* WorldCupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCupViewController.swift; sourceTree = "<group>"; };
 		26E4D8C7278F4F0E00688543 /* WorldCup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCup.swift; sourceTree = "<group>"; };
 		26E4D8CB278F516F00688543 /* winners.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = winners.json; path = "../../../../Downloads/Arquivos CampeoesDaCopa/winners.json"; sourceTree = "<group>"; };
+		26F0FCE42798CBAF006344F7 /* WorrldCupTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorrldCupTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -243,6 +245,7 @@
 			children = (
 				26E4D8BC278F4DAA00688543 /* WinnersTableViewController.swift */,
 				26E4D8C0278F4DF800688543 /* WorldCupViewController.swift */,
+				26F0FCE42798CBAF006344F7 /* WorrldCupTableViewCell.swift */,
 			);
 			path = controllers;
 			sourceTree = "<group>";
@@ -379,6 +382,7 @@
 				26E4D7DC278F498900688543 /* AppDelegate.swift in Sources */,
 				26E4D8C8278F4F0E00688543 /* WorldCup.swift in Sources */,
 				26E4D8C1278F4DF800688543 /* WorldCupViewController.swift in Sources */,
+				26F0FCE52798CBAF006344F7 /* WorrldCupTableViewCell.swift in Sources */,
 				26E4D7DE278F498900688543 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
